@@ -1,3 +1,3 @@
 
 # test
-Test repository - version bende v2
+Test repository - version igor v2
